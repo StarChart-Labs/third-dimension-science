@@ -20,7 +20,9 @@ Should ideally function well at draft (0.2 mm) layer heights, and include design
 - 0.1.2
   - 0.2 mm gap. Did not slot
 - 0.1.3
-  - 0.4 mm gap.
+  - 0.4 mm gap. Slotted, slop side-to-side
+- 0.1.4
+  - Reduce ONLY side-to-side to 0.2 mm gap. Fits very snugly, slight gap along top.
 
 ## Additional Resources
 
