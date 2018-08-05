@@ -12,17 +12,22 @@ Should ideally function well at draft (0.2 mm) layer heights, and include design
 
 ## Versions
 
-- 0.1.0
+- M/F 0.1.0
   - 0.05 mm gap. Did not slot
-- 0.1.1
+- M/F 0.1.1
   - Shortened test models to preserve material and reduce print time
   - 0.1 mm gap. Did not slot
-- 0.1.2
+- F 0.1.2
   - 0.2 mm gap. Did not slot
-- 0.1.3
+- F 0.1.3
   - 0.4 mm gap. Slotted, slop side-to-side
-- 0.1.4
+- F 0.1.4
   - Reduce ONLY side-to-side to 0.2 mm gap. Fits very snugly, slight gap along top.
+- M 0.1.4, F 0.1.7
+  - Add edge fillets and tighten gap. Tong separation is too low, doesn't slot
+- Standardize Versions: 0.1.8
+  - Increase tong separation, reduce to height of 8 mm for increased time/material efficiency in tests
+
 
 ## Additional Resources
 
