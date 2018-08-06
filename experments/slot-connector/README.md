@@ -25,8 +25,10 @@ Should ideally function well at draft (0.2 mm) layer heights, and include design
   - Reduce ONLY side-to-side to 0.2 mm gap. Fits very snugly, slight gap along top.
 - M 0.1.4, F 0.1.7
   - Add edge fillets and tighten gap. Tong separation is too low, doesn't slot
-- Standardize Versions: 0.1.8
-  - Increase tong separation, reduce to height of 8 mm for increased time/material efficiency in tests
+- 0.1.8 (Standardize Versions)
+  - Increase tong separation, reduce to height of 8 mm for increased time/material efficiency in tests. Tongs too thick
+- 0.1.9
+  - Narrow tongs. Almost correct, slightly more narrowing may solve the issue
 
 
 ## Additional Resources
